@@ -1,0 +1,18 @@
+{
+    "name": "sometests/06302023",
+    "description": "Some tests",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Zubarev",
+            "email": "info@a-site.by"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^4.4"
+    }
+}
